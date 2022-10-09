@@ -1,0 +1,15 @@
+									PREPUBLICACION
+
+Tratar unicamente 1 tema
+Usar pocas paginas (nunca mas de 10)
+Poner muchos ejemplos e ilustraciones, ser muy muy explicativo
+Usar referencias para redirigir a temas mas avanzados, pero siempre usar las documentaciones oficiales para las referencias
+Usar negritas y un buen resaltado del texto
+Poner al principio del articulo: 
+						titulo (no tiene que ser necesariamente el mismo titulo que el de la publicacion) 
+						universidad
+						Pequeña descripcion basada en el titulo
+
+
+									POST-ACEPTACION DE ARTICULO
+Asignacion de propiedades del articulo en la seccion de My Uploads
